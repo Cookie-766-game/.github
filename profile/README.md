@@ -55,3 +55,5 @@ Automate Strategically: Use auto-clickers or browser extensions to automate clic
 Conclusion
 
 Cookie Clicker is deceptively simple but offers surprising depth. With a balance of clicking, strategy, and timing, you can build an unstoppable cookie empire. Whether you play actively or let your empire grow while idle, the path to cookie domination is as sweet as it is satisfying.
+
+Cookie Clicker is an incremental game developed by Julien “Orteil” Thiennot. The game begins with a single giant cookie and the player earns cookies by clicking on it. As cookies accumulate, players can purchase upgrades and automated units like cursors, grandmas, and factories to increase their cookie production rate. The game includes achievements, heavenly upgrades, and seasonal events that enhance replayability. Though simple at first glance, Cookie Clicker features complex mechanics, hidden lore, and strategic depth. It's known for its humor, addictive progression system, and endless gameplay loop. Originally a browser game, it's also available on Steam and mobile platforms.
